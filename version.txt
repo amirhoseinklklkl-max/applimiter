@@ -1,0 +1,22 @@
+App Limiter v1.1 - Final
+=======================
+Build Date: 2026-09-13
+Tapsell Integration: Mediation SDK 1.3.0
+
+Features:
+- App time limiting (per 24 hours)
+- Usage tracking from system events
+- Daily confirmation prompt
+- Full app blocking when time runs out
+- Accessibility-based enforcement
+- Persistent monitoring service
+
+Ads:
+- Tapsell Mediation Interstitial on app entry
+- Tapsell Standard Banner in app list
+- GDPR consent dialog
+- Google Advertising ID support
+
+App ID: leqncsmjpekcpjgmacobftjhbegfccfpgsqbneclnojshqsbpmpdeojqncepatrlgetsik
+Interstitial Zone: 6aa5ca2b1f07c00619f45129
+Banner Zone: 6aa5cae6796a202335abbc77
